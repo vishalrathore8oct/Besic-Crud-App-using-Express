@@ -1,0 +1,18 @@
+{
+  "name": "express-crud-app",
+  "version": "1.0.0",
+  "description": "This is a besic crud app using express without database only api testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "author": "Vishal Rathore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
